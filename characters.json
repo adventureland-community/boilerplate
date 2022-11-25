@@ -1,0 +1,12 @@
+[
+    {
+        "name": "MyChar1",
+        "ctype": "merchant",
+        "id": "0123456789"
+    },
+    {
+        "name": "MyChar2",
+        "ctype": "warrior",
+        "id": "9876543210"
+    }
+]
